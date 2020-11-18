@@ -3,6 +3,6 @@ Hi, I'm Shayne! I'm a software engineer who is passionate about merging atoms an
 
 ### Here is what I'm working on! 
 
-- 🔭 I’m currently working on ... a city comparison tool for digital nomads
-- 🌱 I’m currently learning ... Algorithms and Data Structures
-- 👯 I’m looking to collaborate on ... React
+- 🔭 I’m currently working on ... a full website build for a new client in the construction industry.
+- 🌱 I’m currently learning ... algorithms and data structures.
+- 👯 I’m looking to collaborate on ... open source projects.
